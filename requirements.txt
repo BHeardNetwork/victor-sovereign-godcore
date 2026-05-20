@@ -1,0 +1,5 @@
+torch
+ollama
+numpy
+sentence-transformers
+torchhd
